@@ -1,0 +1,3 @@
+MakeUp_EE = {
+    MakeUpType_LipsRed = "Punane huulepulk",
+}

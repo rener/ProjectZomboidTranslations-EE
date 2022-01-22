@@ -1,5 +1,3 @@
 Recipes_EE = {
-    Recipe_Generator = "Generator Maintenance",
-    Recipe_Herbalist = "Herbal Remedies",
+    Recipe_Open_Packet_of_Potato_Seeds = "Ava kartuliseemnete pakk",
 }
-

@@ -1,0 +1,3 @@
+DynamicRadio_EE = {
+    AEBS_weather_blizzard_C = "lumetorm",
+}
