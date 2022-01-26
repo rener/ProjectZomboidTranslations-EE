@@ -1,1 +1,16 @@
-West Point <LINE> <LINE> Ya sea que estÈs paseando por la plaza mayor, comiendo uno de nuestros pasteles o simplemente charlando con los amables lugareÒos - West Point es la verdadera pequeÒa ciudad de Estados Unidos. <LINE> <LINE> No dejes que las tranquilas calles, las viviendas econÛmicas y las hect·reas de terreno agrÌcola te engaÒen - este es el centro administrativo de Knox Country. Si nuestro alcalde no est· ocupado sellando ordenanzas p˙blicas en el ayuntamiento, °puedes encontrarlo en el famoso Twiggy's Bar! No importa cu·nto tiempo te quedes: °la hospitalidad en West Point est· garantizada!
+West Point
+ <LINE> <LINE>
+ √úksk√µik, kas sa jalutad linnav√§ljakul, naudiskled m√µne meie piruka kallal v√µi lihtsalt lobised s√µbralike kohalikega - West Point on T√µeline USA V√§ikelinn.
+ <LINE> <LINE>
+ Ent √§ra lase unistel t√§navatel, soodsatel kinnisvarahindadel ja tohututel laiuvatel p√µllumaadel end petta - see ongi Knox Country administratiivkeskus. Kui meie linnapea ei ole parajasti ametis m√§√§ruste tembeldamisega, v√µib teda kohata ehk hoopis kuulsas Twiggy Baaris!
+ √úksk√µik, kui kauaks sa j√§√§d - West Pointi k√ºlalislahkus on garanteeritud!
+  <LINE> <LINE>
+ Whether you're strolling through the town square, chowing on one of our pies
+ or just chatting with friendly locals - West Point is the true Small Town USA.
+ <LINE> <LINE>
+ Don't let sleepy streets, affordable housing and acres
+ of rolling farmland fool you - this is the Knox Country administrative
+ hub. If our mayor isn't busy rubber-stamping public ordinances in the
+ town hall, you might just find him in the famous Twiggy's Bar!
+ No matter how long your stay: a West Point welcome is guaranteed!
+

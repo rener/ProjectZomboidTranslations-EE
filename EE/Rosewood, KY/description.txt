@@ -1,1 +1,18 @@
-Rosewood <LINE> <LINE> Una corta estancia en Rosewood es agradable, pero øuna larga estancia? Bueno, los reclusos de la famosa prisiÛn de Knox te dir·n: °no es tan divertido! <LINE> <LINE> Situado geogr·ficamente de manera idÛnea para facilitar el acceso, Rosewood es el eje de la comunidad para la administraciÛn y los servicios comunitarios, asÌ como un destacado lugar de encarcelamiento. El palacio de justicia del condado, un departamento de bomberos recientemente renovado y un animado centro policial hacen de esta ciudad una de las m·s importantes de la zona. °VisÌtanos hoy!
+Rosewood
+ <LINE> <LINE>
+ L√ºhike viibimine Rosewoodis on meeldiv, aga pikk?
+ Kuulsa Knoxi Vangla vangid v√µivad sulle √∂elda: see ei ole kuigi l√µbus!
+ <LINE> <LINE>
+ Geograafilise paiknemise poolest ideaalset ligip√§√§su v√µimaldav Rosewood on √ºhtaegu 
+ kogukonna s√ºda administratiiv- ja kogukonnateenuste pakkumise m√µttes, aga ka juhtiv vanglakeskus.
+ Siin asuvad maakonna kohtumaja, hiljuti √ºles vuntsitud tulet√µrjedepoo ja tiheda liiklusega politseihoone,
+ mis muudavad selle √ºheks piirkonna t√§htsaimaks linnaks! Tule juba t√§na!
+ <LINE> <LINE>
+ A short stay in Rosewood is pleasant, but a long stay?
+ Well the inmates of the famous Knox Penitentiary will tell you: that's not so fun!
+ <LINE> <LINE>
+ Ideally situated geographically for ease of access, Rosewood is a community hub for administration
+ and community services as well as a leading incarceration center.
+ The county courthouse, a recently refurbished fire department and a lively law enforcement facility
+ make this one of the most important towns in the area! Come visit today!
+

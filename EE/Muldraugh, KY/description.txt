@@ -1,1 +1,19 @@
-Muldraugh <LINE> <LINE> Muldraugh es una peque�a ciudad en un �rea conocida por los lugare�os como 'Knox Country'- el epicentro del estado de Kentucky. Surgi� como una ciudad militar, pero ahora da la bienvenida a gente de todos los �mbitos de la vida - algunos viajeros a los pueblos cercanos m�s grandes, algunas familias de militares y algunos que viven por debajo del umbral de la pobreza. <LINE> <LINE> Es un lugar peque�o, lleno de buena gente - por no hablar de Spiffo's, �las mejores galletas y pollo a este lado de Kentucky! Por supuesto, no pasa mucho por aqu�, pero eso no significa que la vida de Muldraugh sea aburrida...
+Muldraugh
+ <LINE> <LINE>
+ Muldraugh on väike linn piirkonnas, mida kohalikud kutsuvad Knox Country'ks -
+ täpselt Kentucky osariigi südames. See sai alguse sõjaväelinnana, kuid nüüd on 
+ siia teretulnud inimesed ka mujalt - mõned sõidavad tööle suurematesse 
+ lähedalasuvatesse linnadesse, mõned on endiselt sõjaväeperekonnad ning 
+ mõned elavad allpool vaesuspiiri.
+ <LINE> <LINE>
+ See on väike koht, kus elavad head inimesed - mainimata ei saa jätta ka 
+ Spiffo kanarooga taigna all - see on parim siinpool Kentuckyt! Ega siin suurt midagi ei juhtu tõesti, kuid see ei tähenda, et elu Muldraugh's igav oleks...
+ <LINE> <LINE>
+ Muldraugh is a small town in an area the locals know as 'Knox Country' -
+ the dead centre of the State of Kentucky. It grew as an Army town, but now welcomes
+ folks from all walks of life - some commuters to the bigger towns
+ nearby, some military families and some living below the poverty line.
+ <LINE> <LINE>
+ It's a small place, filled with good people - not to mention Spiffo's finest
+ Chicken and Biscuits this side of Kentucky! Sure, not much happens here -
+ but that doesn't mean Muldraugh life is dull...
